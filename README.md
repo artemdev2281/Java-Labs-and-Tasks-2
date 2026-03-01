@@ -1,2 +1,10 @@
 # Java-Labs-and-Tasks-2
-Java labs and tasks (2nd part) for the university course "Information Technologies and Programming". Krechetnikov Artem "БВТ2403"
+Лабораторные работы и задания по предмету  
+**Информационные технологии и программирование (Java)**.
+Часть 2
+
+---
+
+## 👨‍🎓 Информация о студенте
+- **ФИО:** Кречетников А.О. 
+- **Группа:** БВТ2403  
