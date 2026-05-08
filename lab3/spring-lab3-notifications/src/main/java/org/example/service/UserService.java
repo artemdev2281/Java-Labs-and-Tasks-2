@@ -4,6 +4,7 @@ import lombok.RequiredArgsConstructor;
 import org.example.model.dto.UserDto;
 import org.example.model.entity.User;
 import org.example.repository.UserRepository;
+import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;
